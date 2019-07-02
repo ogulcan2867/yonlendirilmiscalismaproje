@@ -1,0 +1,46 @@
+{% extends 'Layout.twig' %}
+{%block title%}{{Kategori.Baslik|raw}}{%endblock%}
+{% block content %}
+<div id="ABdev_header_spacer" style="height: 90px;"></div>
+<section id="headline_breadcrumbs_bar" class="pattern_overlayed">
+	<div class="container">
+		<div class="row">
+			<div class="span12 center_aligned">
+				<h2>{{Kategori.Baslik|raw}}</h2>
+			</div>
+			<div class="span12 center_aligned">
+				<div class="breadcrumbs">
+					<a href="#">Anasayfa</a>
+					<span class="circle_delimiter"></span>
+					<span class="current">Ürünler</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="portfolio_container row">
+				{% for Urunler in Urunler %}
+					<div class="portfolio_4_column nature outdoors portfolio_item" style="height:250px">
+						<div class="portfolio_inner_content">
+							<a class="overlay" data-lightbox="portfolio" data-title={{ Urunler.kod }}" href="{{url}}uploads/a_urunler/yeni/{{ Urunler.Resim }}">
+							<span class="portfolio_icon">
+								<i class="ci_icon-look"></i>
+							</span>
+								<img src="{{url}}uploads/a_urunler/yeni/{{ Urunler.Resim }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="{ Urunler.kod }}" >
+							</a>
+							<div class="portfolio_item_meta">
+								<h6 class="column_title_center">
+                                   {{ Urunler.kod }}
+								</h6>
+							</div>
+						</div>
+					</div>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</section>
+{% endblock %}

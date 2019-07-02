@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28da9d83-e4f8-4fb3-a8b5-5d4b5055ed11" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="true" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="454" column="79" lean-forward="true" selection-start-line="454" selection-start-column="79" selection-end-line="455" selection-end-column="86" />
+              <folding>
+                <marker date="1524650844000" expanded="true" signature="389:425" ph="select * fro... o_menuler" />
+                <marker date="1524650844000" expanded="true" signature="1351:1391" ph="delete from " />
+                <marker date="1524650844000" expanded="true" signature="2163:2297" ph="select *, GR... o_menuler" />
+                <marker date="1524650844000" expanded="true" signature="2850:2884" ph="..." />
+                <marker date="1524650844000" expanded="true" signature="2886:2892" ph=" " />
+                <marker date="1524650844000" expanded="true" signature="2988:3023" ph="..." />
+                <marker date="1524650844000" expanded="true" signature="3397:3478" ph="select `ad` o_menuler" />
+                <marker date="1524650844000" expanded="true" signature="4037:4144" ph="select `ad` o_menuler" />
+                <marker date="1524650844000" expanded="true" signature="4699:4705" ph=" " />
+                <marker date="1524650844000" expanded="true" signature="8307:8370" ph="select * fro... o_menuler" />
+                <marker date="1524650844000" expanded="true" signature="12075:12218" ph="select ax.di... o_menuler" />
+                <marker date="1524650844000" expanded="true" signature="13397:13472" ph="select * fro... o_menuler" />
+                <marker date="1524650844000" expanded="true" signature="13749:13799" ph="select max(s... o_menuler" />
+                <marker date="1524650844000" expanded="true" signature="14179:14241" ph="select * fro... o_menuler" />
+                <marker date="1524650844000" expanded="true" signature="16599:16652" ph="update `o_me... " />
+                <marker date="1524650844000" expanded="true" signature="17549:17617" ph="select * fro... o_menuler" />
+                <marker date="1524650844000" expanded="true" signature="17782:17918" ph="update `o_me... " />
+                <marker date="1524650844000" expanded="true" signature="18777:18853" ph="select * fro... o_menuler" />
+                <marker date="1524650844000" expanded="true" signature="18997:19059" ph="select count... %1$s" />
+                <marker date="1524650844000" expanded="true" signature="22193:22276" ph="select * fro... o_menuler" />
+                <marker date="1524650844000" expanded="true" signature="29320:29413" ph="select * fro... d_moduller" />
+                <marker date="1524650844000" expanded="true" signature="29598:29643" ph="select count... %1$s" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modul_item_page.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page/modul_item_page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="631">
+              <caret line="714" column="124" lean-forward="false" selection-start-line="714" selection-start-column="124" selection-end-line="714" selection-end-column="124" />
+              <folding>
+                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#5;n#div#0;n#form#0;n#div#0;n#dd#0;n#div#0;n#dl#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#5;n#div#0;n#form#0;n#div#0;n#dd#0;n#div#0;n#dl#0;n#!!top" expanded="true" />
+                <element signature="e#86622#86628#1#HTML" expanded="true" />
+                <marker date="1524750556000" expanded="true" signature="371:432" ph="select count... d_modul_resim_tipler" />
+                <marker date="1524750556000" expanded="true" signature="1745:1909" ph="select tag.`... o_etiket_iliskiler" />
+                <marker date="1524750556000" expanded="true" signature="2453:2519" ph="select `id` o_etiketler" />
+                <marker date="1524750556000" expanded="true" signature="2909:2972" ph="insert into `o_etiketler`... " />
+                <marker date="1524750556000" expanded="true" signature="3351:3442" ph="insert into `o_etiket_iliskiler`... " />
+                <marker date="1524750556000" expanded="true" signature="3641:3732" ph="delete from " />
+                <marker date="1524750556000" expanded="true" signature="4768:4818" ph="select * fro... d_moduller" />
+                <marker date="1524750556000" expanded="true" signature="5063:5131" ph="select `%1$s... %2$s" />
+                <marker date="1524750556000" expanded="true" signature="5536:5663" ph="select `perm... o_permanents" />
+                <marker date="1524750556000" expanded="true" signature="5752:5816" ph="select tablo... d_modul_ozellikler" />
+                <marker date="1524750556000" expanded="true" signature="7294:7347" ph="update `%1$s... " />
+                <marker date="1524750556000" expanded="true" signature="7806:7874" ph="select * fro... d_modul_ozellikler" />
+                <marker date="1524750556000" expanded="true" signature="8706:8800" ph="select `y_id... o_iliskiler" />
+                <marker date="1524750556000" expanded="true" signature="9157:9258" ph="insert into `o_iliskiler`... " />
+                <marker date="1524750556000" expanded="true" signature="9495:9598" ph="delete from " />
+                <marker date="1524750556000" expanded="true" signature="9848:9896" ph="update `%1$s... " />
+                <marker date="1524750556000" expanded="true" signature="10435:10618" ph="select ax.di... ${{$selected_modul[ &quot;tablo_adi&quot; ]}}" />
+                <marker date="1524750556000" expanded="true" signature="11700:11775" ph="select * fro... d_modul_iliskiler" />
+                <marker date="1524750556000" expanded="true" signature="11944:11989" ph="select count... %1$s" />
+                <marker date="1524750556000" expanded="true" signature="12977:13075" ph="select * fro... ${{$selected_modul[ &quot;tablo_adi&quot; ]}}" />
+                <marker date="1524750556000" expanded="true" signature="13233:13518" ph="select modul... d_modul_iliskiler" />
+                <marker date="1524750556000" expanded="true" signature="13833:13927" ph="select `y_id... o_iliskiler" />
+                <marker date="1524750556000" expanded="true" signature="14333:14425" ph="select y_id o_iliskiler" />
+                <marker date="1524750556000" expanded="true" signature="14873:14969" ph="select * fro... d_modul_ozellikler" />
+                <marker date="1524750556000" expanded="true" signature="16641:16726" ph="select * fro... ${{$selected_modul[ &quot;tablo_adi&quot; ]}}" />
+                <marker date="1524750556000" expanded="true" signature="24500:24630" ph="insert into `${{$selected_modul[ &quot;tablo_adi&quot; ]}}`... " />
+                <marker date="1524750556000" expanded="true" signature="25109:25197" ph="insert into p_logs... " />
+                <marker date="1524750556000" expanded="true" signature="25307:25387" ph="update `${{$... " />
+                <marker date="1524750556000" expanded="true" signature="25479:25764" ph="select modul... d_modul_iliskiler" />
+                <marker date="1524750556000" expanded="true" signature="28765:28890" ph="update `${{$... " />
+                <marker date="1524750556000" expanded="true" signature="30379:30465" ph="update `${{$... " />
+                <marker date="1524750556000" expanded="true" signature="30673:30958" ph="select modul... d_modul_iliskiler" />
+                <marker date="1524750556000" expanded="true" signature="31895:31974" ph="delete from " />
+                <marker date="1524750556000" expanded="true" signature="32177:32314" ph="insert into o_iliskiler... " />
+                <marker date="1524750556000" expanded="true" signature="32580:32668" ph="insert into p_logs... " />
+                <marker date="1524750556000" expanded="true" signature="36615:36634" ph="..." />
+                <marker date="1524750556000" expanded="true" signature="38264:38283" ph="..." />
+                <marker date="1524750556000" expanded="true" signature="43260:43545" ph="select modul... d_modul_iliskiler" />
+                <marker date="1524750556000" expanded="true" signature="44227:44322" ph="select tablo... d_modul_ozellikler" />
+                <marker date="1524750556000" expanded="true" signature="47600:47686" ph="select * fro... d_modul_ozellikler" />
+                <marker date="1524750556000" expanded="true" signature="52586:52681" ph="select `etik... d_modul_ozellik_secenekler" />
+                <marker date="1524750556000" expanded="true" signature="53992:54042" ph="select * fro... d_moduller" />
+                <marker date="1524750556000" expanded="true" signature="54152:54219" ph="select * fro... %1$s" />
+                <marker date="1524750556000" expanded="true" signature="59971:59985" ph="..." />
+                <marker date="1524750556000" expanded="true" signature="61243:61298" ph="select * fro... d_modul_ozellik_secenekler" />
+                <marker date="1524750556000" expanded="true" signature="61752:61771" ph="..." />
+                <marker date="1524750556000" expanded="true" signature="62025:62042" ph="..." />
+                <marker date="1524750556000" expanded="true" signature="62927:62982" ph="select * fro... d_modul_ozellik_secenekler" />
+                <marker date="1524750556000" expanded="true" signature="71778:71871" ph="select * fro... d_moduller" />
+                <marker date="1524750556000" expanded="true" signature="72104:72149" ph="select count... %1$s" />
+                <marker date="1524750556000" expanded="true" signature="83165:83339" ph="select tag.`... o_etiket_iliskiler" />
+                <marker date="1524750556000" expanded="true" signature="86177:86247" ph="select count... d_modul_ozellikler" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+              <folding>
+                <marker date="1524747503000" expanded="true" signature="1435:1499" ph="select * fro... o_diller" />
+                <marker date="1524747503000" expanded="true" signature="2445:2527" ph="select `id` d_moduller" />
+                <marker date="1524747503000" expanded="true" signature="3991:4053" ph="select * fro... d_moduller" />
+                <marker date="1524747503000" expanded="true" signature="5116:5151" ph="select * fro... %1$s" />
+                <marker date="1524747503000" expanded="true" signature="10777:10840" ph="select * fro... d_moduller" />
+                <marker date="1524747503000" expanded="true" signature="11387:11463" ph="select count... ${{$okut[&quot;tablo_adi&quot;]}}" />
+                <marker date="1524747503000" expanded="true" signature="12161:12211" ph="select count... o_menuler" />
+                <marker date="1524747503000" expanded="true" signature="15988:16169" ph="..." />
+                <marker date="1524747503000" expanded="true" signature="16030:16155" ph="..." />
+                <marker date="1524747503000" expanded="true" signature="24039:24083" ph="select * fro... d_ayar_gruplar" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ayarlar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/ayarlar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="90" column="16" lean-forward="true" selection-start-line="90" selection-start-column="16" selection-end-line="91" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toastr</find>
+      <find>swal</find>
+      <find>toas</find>
+      <find>toastr_options</find>
+      <find>MTABLEA</find>
+      <find>.update</find>
+      <find>yukleni</find>
+      <find>kayıt</find>
+      <find>select2</find>
+      <find>ichec</find>
+      <find>koruma</find>
+      <find>tag</find>
+      <find>etiket</find>
+      <find>button</find>
+      <find>uttons with dropdowns</find>
+      <find>Permant</find>
+      <find>adres</find>
+      <find>javascrip</find>
+      <find>portle</find>
+      <find>date</find>
+      <find>check</find>
+      <find>change</find>
+      <find>sum</find>
+      <find>tanım</find>
+      <find>Argenova</find>
+      <find>A</find>
+      <find>argenova</find>
+      <find>modulkayit</find>
+      <find>_change_</find>
+      <find>relation</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;/strong&gt;</replace>
+      <replace>length</replace>
+      <replace>Arasbil</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/F15DBDB6-C029-44F4-AB15-B3CA6CF68017/Bundle.php" />
+        <option value="&lt;c0b5967f-a939-484d-9e43-bded69c73e78&gt;/.htaccess" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/EB8936C3-E7F9-4262-B086-01DBD45E63D1/Database.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/2138B8F0-6CCA-41D7-B8CA-B2567875E3ED/ayar.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/B348DAC2-7DB5-46DF-B443-D5FF89336283/Config.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/536EC5E6-4391-42F9-A31C-88F4B54D4F83/ayar.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/293D0A36-1A60-47C7-8934-864816E8A215/db.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/E61F5590-9F5B-499D-8658-5A309869C377/db.php" />
+        <option value="$PROJECT_DIR$/../wee.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/9B5139DE-830E-481B-869A-6ACFF06B11ED/Contact.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/40EC4738-142E-4128-A797-72974FAEC446/Iletisim.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/744B77CA-63F1-4CD4-B5A3-0428FE4AB390/satin-alma.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/EB46F929-5420-4B4A-983D-FE8A5CDF2830/Haberler.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/80F3E894-E87B-4E01-9E95-0B150D8BD03D/HaberDetay.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/4E697FA2-7902-49C1-9487-2E0D9B789184/News.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/EA699728-C721-43B3-8F5F-F7C5620B684B/Haberler.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/AC41C893-207B-4E0F-A9C9-A1777E3053DB/ayar.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/3981A6AD-0FCA-4690-8A60-85590381519F/ayar.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/422434AD-D1D5-4CB0-B22E-0ACA5B042779/index.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/67683723-70F9-445C-A704-EF83A7BE1307/Home.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/5044CDC9-9485-4C58-88D3-FE4A74CD3907/Layout.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/BBBD276F-6EA0-429A-A3A0-04A6AD007208/Home.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/C18E6135-5609-4F81-89E3-768DC581DD04/UrunDetay.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/E0676AD1-4FAD-47DD-85BB-20BA6293CA76/Urunler.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/DE93BA40-CE90-44AA-9A49-6FC39A412966/Iletisim.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/001F80F0-1454-42A9-9A66-DB1559C09963/Iletisim.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/7444CF5A-075B-423F-B5E6-453E42D06394/Urunler.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/AB9F85ED-40D9-4CF0-A647-36108A433553/Layout.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/27685D0E-801A-4AC3-BC06-7DD162FA7419/style.css" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/D5268345-9728-4539-AB4B-B5E56CCED9DE/Iletisim.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/CCCD2F51-E9BC-45BE-BAA0-B784006FBB81/UrunDetay.twig" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/5577F850-1C9C-464D-809E-B39A315FE6BF/responsive.css" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/6313BBD5-D39F-438D-B0E2-AA3D0A91B4EA/main.php" />
+        <option value="$PROJECT_DIR$/page/ayarlar.php" />
+        <option value="$PROJECT_DIR$/page/uye_gruplari.php" />
+        <option value="$PROJECT_DIR$/page/ceviriler.php" />
+        <option value="$PROJECT_DIR$/page/uyeler.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/11A6D602-C122-46D6-A705-BE908B282158/database.php" />
+        <option value="$PROJECT_DIR$/page/dashboard.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/38106B08-2892-499B-9EC7-3F973595C71C/wp-config.php" />
+        <option value="$PROJECT_DIR$/theme/global/scripts/arasbil.js" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/24FB2AEC-75D5-4435-9BCD-EA4FC049B7F9/ayar.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/F075A491-261C-4E20-ABEF-4470267BC459/ayar.php" />
+        <option value="$PROJECT_DIR$/page/menu.php" />
+        <option value="$PROJECT_DIR$/page/modul_list_page.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/EA12662A-ED63-40E7-A84B-7FB8A772EE87/ayar.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/9C13E0EB-0DDB-41B0-8748-53BC306D692C/ayar.php" />
+        <option value="$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/392D3A88-7A7A-41E0-ADE9-B5B8DDB93E60/Layout.twig" />
+        <option value="$PROJECT_DIR$/index2.php" />
+        <option value="$PROJECT_DIR$/page/modul_item_page.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YeniPanel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YeniPanel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YeniPanel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YeniPanel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="PHP" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28da9d83-e4f8-4fb3-a8b5-5d4b5055ed11" name="Default" comment="" />
+      <created>1523103389193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523103389193</updated>
+      <workItem from="1523103390494" duration="12564000" />
+      <workItem from="1523283277023" duration="4740000" />
+      <workItem from="1523294185230" duration="3856000" />
+      <workItem from="1523336502325" duration="3000" />
+      <workItem from="1523367378905" duration="1212000" />
+      <workItem from="1523369695339" duration="7448000" />
+      <workItem from="1523443460754" duration="2866000" />
+      <workItem from="1523449701554" duration="16000" />
+      <workItem from="1523452666899" duration="2043000" />
+      <workItem from="1523469374458" duration="43000" />
+      <workItem from="1524159640266" duration="995000" />
+      <workItem from="1524205502072" duration="28550000" />
+      <workItem from="1524597680928" duration="3000" />
+      <workItem from="1524650742766" duration="3669000" />
+      <workItem from="1524745603759" duration="4334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72342000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16798314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32960597" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14430244" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14430244" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18483412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32960597" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/289530F1-85DC-496C-824E-B8E024488E21/error_log" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/808735C8-5FF1-4793-80C0-B8872BB97211/db.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/80F3E894-E87B-4E01-9E95-0B150D8BD03D/HaberDetay.twig" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/67683723-70F9-445C-A704-EF83A7BE1307/Home.twig" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/40EC4738-142E-4128-A797-72974FAEC446/Iletisim.twig" />
+    <entry file="file://$PROJECT_DIR$/../wee.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/EA699728-C721-43B3-8F5F-F7C5620B684B/Haberler.twig" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/4E697FA2-7902-49C1-9487-2E0D9B789184/News.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/02E702D1-FCDF-498A-9A63-9CAF65FDA03C/Haber.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/5044CDC9-9485-4C58-88D3-FE4A74CD3907/Layout.twig" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/484170F3-B931-4613-B41F-E077F7EBE4A0/Iletisim.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/867D6BD6-7483-4C13-A371-F590D1D9E5F7/Iletisim.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/FF4391E8-9FAD-466F-B3CC-89071DAEEC34/Iletisim.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/0C95B77F-04D1-4DD2-BE7C-0CF20588302E/getimage.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/BBBD276F-6EA0-429A-A3A0-04A6AD007208/Home.twig" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/7521AE10-E42C-404C-AD2C-2DBE2322ABA5/Page.twig" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/C18E6135-5609-4F81-89E3-768DC581DD04/UrunDetay.twig" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/E0676AD1-4FAD-47DD-85BB-20BA6293CA76/Urunler.twig" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/DE93BA40-CE90-44AA-9A49-6FC39A412966/Iletisim.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/69ACFA86-DE0A-42C3-8F3E-A2F0E688A675/Iletisim.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/27685D0E-801A-4AC3-BC06-7DD162FA7419/style.css" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/D5268345-9728-4539-AB4B-B5E56CCED9DE/Iletisim.twig" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/001F80F0-1454-42A9-9A66-DB1559C09963/Iletisim.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/7444CF5A-075B-423F-B5E6-453E42D06394/Urunler.twig" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/AB9F85ED-40D9-4CF0-A647-36108A433553/Layout.twig" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/CCCD2F51-E9BC-45BE-BAA0-B784006FBB81/UrunDetay.twig" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/6313BBD5-D39F-438D-B0E2-AA3D0A91B4EA/main.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/5577F850-1C9C-464D-809E-B39A315FE6BF/responsive.css" />
+    <entry file="file://$USER_HOME$/Desktop/thevectorlab.net/dashlab-v1.2/form-checkbox-radio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="790" column="0" lean-forward="false" selection-start-line="790" selection-start-column="0" selection-end-line="791" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/11A6D602-C122-46D6-A705-BE908B282158/database.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/C4966E1A-2E5A-4A57-9E66-042ABFF4B014/Bundle.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/C4619768-5A88-4EA6-8F98-525284C4A4BC/database.php" />
+    <entry file="file://$PROJECT_DIR$/page/ceviriler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="258" column="33" lean-forward="false" selection-start-line="258" selection-start-column="33" selection-end-line="258" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/uye_gruplari.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="312" column="113" lean-forward="true" selection-start-line="312" selection-start-column="113" selection-end-line="312" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/uyeler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="109" column="178" lean-forward="true" selection-start-line="109" selection-start-column="146" selection-end-line="109" selection-end-column="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750">
+          <caret line="6" column="48" lean-forward="false" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+          <folding>
+            <marker date="1524597534000" expanded="true" signature="1369:1413" ph="select * fro... p_uyeler" />
+            <marker date="1524597534000" expanded="true" signature="1602:1648" ph="select * fro... d_moduller" />
+            <marker date="1524597534000" expanded="true" signature="1820:1876" ph="select * fro... %2$s" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/38106B08-2892-499B-9EC7-3F973595C71C/wp-config.php" />
+    <entry file="file://$PROJECT_DIR$/theme/global/scripts/arasbil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="198" column="0" lean-forward="true" selection-start-line="198" selection-start-column="0" selection-end-line="198" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/24FB2AEC-75D5-4435-9BCD-EA4FC049B7F9/ayar.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/EA12662A-ED63-40E7-A84B-7FB8A772EE87/ayar.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/F075A491-261C-4E20-ABEF-4470267BC459/ayar.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/9C13E0EB-0DDB-41B0-8748-53BC306D692C/ayar.php" />
+    <entry file="file://$PROJECT_DIR$/page/modul_list_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="73" column="2" lean-forward="true" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="37" />
+          <folding>
+            <element signature="n#generate_pagination_div#0;n#!!top" expanded="false" />
+            <marker date="1524654088000" expanded="true" signature="811:863" ph="select * fro... d_modul_iliskiler" />
+            <marker date="1524654088000" expanded="true" signature="1148:1246" ph="select `id`,... d_moduller" />
+            <marker date="1524654088000" expanded="true" signature="1667:1725" ph="select * fro... ${{$modul_tablo_adi}}" />
+            <marker date="1524654088000" expanded="true" signature="1996:2166" ph="select count... o_iliskiler" />
+            <marker date="1524654088000" expanded="true" signature="2665:2711" ph="update `%1$s... " />
+            <marker date="1524654088000" expanded="true" signature="2879:2967" ph="insert into p_logs... " />
+            <marker date="1524654088000" expanded="true" signature="3852:3913" ph="select count... d_modul_resim_tipler" />
+            <marker date="1524654088000" expanded="true" signature="4181:4269" ph="select * fro... d_modul_liste_ogeler" />
+            <marker date="1524654088000" expanded="true" signature="4599:4666" ph="select * fro... d_modul_ozellikler" />
+            <marker date="1524654088000" expanded="true" signature="5778:5887" ph="select * fro... d_modul_iliskiler" />
+            <marker date="1524654088000" expanded="true" signature="5925:6094" ph="select modul... d_moduller" />
+            <marker date="1524654088000" expanded="true" signature="8621:8798" ph="select * fro... ${implode ( &quot;, &quot; , $select_tables )}" />
+            <marker date="1524654088000" expanded="true" signature="17141:17145" ph="..." />
+            <marker date="1524654088000" expanded="true" signature="20765:20829" ph="select tablo... d_modul_ozellikler" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/ayarlar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="90" column="16" lean-forward="true" selection-start-line="90" selection-start-column="16" selection-end-line="91" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/Cleanup At Startup/Transmit/392D3A88-7A7A-41E0-ADE9-B5B8DDB93E60/Layout.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="225" column="39" lean-forward="false" selection-start-line="225" selection-start-column="39" selection-end-line="225" selection-end-column="39" />
+          <folding>
+            <marker date="1524746883000" expanded="true" signature="24011:24042" ph="..." />
+            <marker date="1524746883000" expanded="true" signature="24468:24499" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/thevectorlab.net/dashlab-v1.2/form-input-group.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="793" column="28" lean-forward="true" selection-start-line="793" selection-start-column="28" selection-end-line="805" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/thevectorlab.net/dashlab-v1.2/form-select2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="1806" column="72" lean-forward="true" selection-start-line="1806" selection-start-column="52" selection-end-line="1806" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+          <folding>
+            <marker date="1524747503000" expanded="true" signature="1435:1499" ph="select * fro... o_diller" />
+            <marker date="1524747503000" expanded="true" signature="2445:2527" ph="select `id` d_moduller" />
+            <marker date="1524747503000" expanded="true" signature="3991:4053" ph="select * fro... d_moduller" />
+            <marker date="1524747503000" expanded="true" signature="5116:5151" ph="select * fro... %1$s" />
+            <marker date="1524747503000" expanded="true" signature="10777:10840" ph="select * fro... d_moduller" />
+            <marker date="1524747503000" expanded="true" signature="11387:11463" ph="select count... ${{$okut[&quot;tablo_adi&quot;]}}" />
+            <marker date="1524747503000" expanded="true" signature="12161:12211" ph="select count... o_menuler" />
+            <marker date="1524747503000" expanded="true" signature="15988:16169" ph="..." />
+            <marker date="1524747503000" expanded="true" signature="16030:16155" ph="..." />
+            <marker date="1524747503000" expanded="true" signature="24039:24083" ph="select * fro... d_ayar_gruplar" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/thevectorlab.net/dashlab-v1.2/form-pickers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="639" column="44" lean-forward="true" selection-start-line="639" selection-start-column="44" selection-end-line="639" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="454" column="79" lean-forward="true" selection-start-line="454" selection-start-column="79" selection-end-line="455" selection-end-column="86" />
+          <folding>
+            <marker date="1524650844000" expanded="true" signature="389:425" ph="select * fro... o_menuler" />
+            <marker date="1524650844000" expanded="true" signature="1351:1391" ph="delete from " />
+            <marker date="1524650844000" expanded="true" signature="2163:2297" ph="select *, GR... o_menuler" />
+            <marker date="1524650844000" expanded="true" signature="2850:2884" ph="..." />
+            <marker date="1524650844000" expanded="true" signature="2886:2892" ph=" " />
+            <marker date="1524650844000" expanded="true" signature="2988:3023" ph="..." />
+            <marker date="1524650844000" expanded="true" signature="3397:3478" ph="select `ad` o_menuler" />
+            <marker date="1524650844000" expanded="true" signature="4037:4144" ph="select `ad` o_menuler" />
+            <marker date="1524650844000" expanded="true" signature="4699:4705" ph=" " />
+            <marker date="1524650844000" expanded="true" signature="8307:8370" ph="select * fro... o_menuler" />
+            <marker date="1524650844000" expanded="true" signature="12075:12218" ph="select ax.di... o_menuler" />
+            <marker date="1524650844000" expanded="true" signature="13397:13472" ph="select * fro... o_menuler" />
+            <marker date="1524650844000" expanded="true" signature="13749:13799" ph="select max(s... o_menuler" />
+            <marker date="1524650844000" expanded="true" signature="14179:14241" ph="select * fro... o_menuler" />
+            <marker date="1524650844000" expanded="true" signature="16599:16652" ph="update `o_me... " />
+            <marker date="1524650844000" expanded="true" signature="17549:17617" ph="select * fro... o_menuler" />
+            <marker date="1524650844000" expanded="true" signature="17782:17918" ph="update `o_me... " />
+            <marker date="1524650844000" expanded="true" signature="18777:18853" ph="select * fro... o_menuler" />
+            <marker date="1524650844000" expanded="true" signature="18997:19059" ph="select count... %1$s" />
+            <marker date="1524650844000" expanded="true" signature="22193:22276" ph="select * fro... o_menuler" />
+            <marker date="1524650844000" expanded="true" signature="29320:29413" ph="select * fro... d_moduller" />
+            <marker date="1524650844000" expanded="true" signature="29598:29643" ph="select count... %1$s" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/modul_item_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="714" column="124" lean-forward="false" selection-start-line="714" selection-start-column="124" selection-end-line="714" selection-end-column="124" />
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#5;n#div#0;n#form#0;n#div#0;n#dd#0;n#div#0;n#dl#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#5;n#div#0;n#form#0;n#div#0;n#dd#0;n#div#0;n#dl#0;n#!!top" expanded="true" />
+            <element signature="e#86622#86628#1#HTML" expanded="true" />
+            <marker date="1524750556000" expanded="true" signature="371:432" ph="select count... d_modul_resim_tipler" />
+            <marker date="1524750556000" expanded="true" signature="1745:1909" ph="select tag.`... o_etiket_iliskiler" />
+            <marker date="1524750556000" expanded="true" signature="2453:2519" ph="select `id` o_etiketler" />
+            <marker date="1524750556000" expanded="true" signature="2909:2972" ph="insert into `o_etiketler`... " />
+            <marker date="1524750556000" expanded="true" signature="3351:3442" ph="insert into `o_etiket_iliskiler`... " />
+            <marker date="1524750556000" expanded="true" signature="3641:3732" ph="delete from " />
+            <marker date="1524750556000" expanded="true" signature="4768:4818" ph="select * fro... d_moduller" />
+            <marker date="1524750556000" expanded="true" signature="5063:5131" ph="select `%1$s... %2$s" />
+            <marker date="1524750556000" expanded="true" signature="5536:5663" ph="select `perm... o_permanents" />
+            <marker date="1524750556000" expanded="true" signature="5752:5816" ph="select tablo... d_modul_ozellikler" />
+            <marker date="1524750556000" expanded="true" signature="7294:7347" ph="update `%1$s... " />
+            <marker date="1524750556000" expanded="true" signature="7806:7874" ph="select * fro... d_modul_ozellikler" />
+            <marker date="1524750556000" expanded="true" signature="8706:8800" ph="select `y_id... o_iliskiler" />
+            <marker date="1524750556000" expanded="true" signature="9157:9258" ph="insert into `o_iliskiler`... " />
+            <marker date="1524750556000" expanded="true" signature="9495:9598" ph="delete from " />
+            <marker date="1524750556000" expanded="true" signature="9848:9896" ph="update `%1$s... " />
+            <marker date="1524750556000" expanded="true" signature="10435:10618" ph="select ax.di... ${{$selected_modul[ &quot;tablo_adi&quot; ]}}" />
+            <marker date="1524750556000" expanded="true" signature="11700:11775" ph="select * fro... d_modul_iliskiler" />
+            <marker date="1524750556000" expanded="true" signature="11944:11989" ph="select count... %1$s" />
+            <marker date="1524750556000" expanded="true" signature="12977:13075" ph="select * fro... ${{$selected_modul[ &quot;tablo_adi&quot; ]}}" />
+            <marker date="1524750556000" expanded="true" signature="13233:13518" ph="select modul... d_modul_iliskiler" />
+            <marker date="1524750556000" expanded="true" signature="13833:13927" ph="select `y_id... o_iliskiler" />
+            <marker date="1524750556000" expanded="true" signature="14333:14425" ph="select y_id o_iliskiler" />
+            <marker date="1524750556000" expanded="true" signature="14873:14969" ph="select * fro... d_modul_ozellikler" />
+            <marker date="1524750556000" expanded="true" signature="16641:16726" ph="select * fro... ${{$selected_modul[ &quot;tablo_adi&quot; ]}}" />
+            <marker date="1524750556000" expanded="true" signature="24500:24630" ph="insert into `${{$selected_modul[ &quot;tablo_adi&quot; ]}}`... " />
+            <marker date="1524750556000" expanded="true" signature="25109:25197" ph="insert into p_logs... " />
+            <marker date="1524750556000" expanded="true" signature="25307:25387" ph="update `${{$... " />
+            <marker date="1524750556000" expanded="true" signature="25479:25764" ph="select modul... d_modul_iliskiler" />
+            <marker date="1524750556000" expanded="true" signature="28765:28890" ph="update `${{$... " />
+            <marker date="1524750556000" expanded="true" signature="30379:30465" ph="update `${{$... " />
+            <marker date="1524750556000" expanded="true" signature="30673:30958" ph="select modul... d_modul_iliskiler" />
+            <marker date="1524750556000" expanded="true" signature="31895:31974" ph="delete from " />
+            <marker date="1524750556000" expanded="true" signature="32177:32314" ph="insert into o_iliskiler... " />
+            <marker date="1524750556000" expanded="true" signature="32580:32668" ph="insert into p_logs... " />
+            <marker date="1524750556000" expanded="true" signature="36615:36634" ph="..." />
+            <marker date="1524750556000" expanded="true" signature="38264:38283" ph="..." />
+            <marker date="1524750556000" expanded="true" signature="43260:43545" ph="select modul... d_modul_iliskiler" />
+            <marker date="1524750556000" expanded="true" signature="44227:44322" ph="select tablo... d_modul_ozellikler" />
+            <marker date="1524750556000" expanded="true" signature="47600:47686" ph="select * fro... d_modul_ozellikler" />
+            <marker date="1524750556000" expanded="true" signature="52586:52681" ph="select `etik... d_modul_ozellik_secenekler" />
+            <marker date="1524750556000" expanded="true" signature="53992:54042" ph="select * fro... d_moduller" />
+            <marker date="1524750556000" expanded="true" signature="54152:54219" ph="select * fro... %1$s" />
+            <marker date="1524750556000" expanded="true" signature="59971:59985" ph="..." />
+            <marker date="1524750556000" expanded="true" signature="61243:61298" ph="select * fro... d_modul_ozellik_secenekler" />
+            <marker date="1524750556000" expanded="true" signature="61752:61771" ph="..." />
+            <marker date="1524750556000" expanded="true" signature="62025:62042" ph="..." />
+            <marker date="1524750556000" expanded="true" signature="62927:62982" ph="select * fro... d_modul_ozellik_secenekler" />
+            <marker date="1524750556000" expanded="true" signature="71778:71871" ph="select * fro... d_moduller" />
+            <marker date="1524750556000" expanded="true" signature="72104:72149" ph="select count... %1$s" />
+            <marker date="1524750556000" expanded="true" signature="83165:83339" ph="select tag.`... o_etiket_iliskiler" />
+            <marker date="1524750556000" expanded="true" signature="86177:86247" ph="select count... d_modul_ozellikler" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

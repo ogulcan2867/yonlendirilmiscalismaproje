@@ -1,0 +1,253 @@
+/* here you can put your own css to customize and override the theme */
+
+/***
+Rounded Portlets
+***/
+/*
+.portlet {
+	border-radius: 4px !important;
+}
+
+.portlet .portlet-title {
+	border-radius: 4px 4px 0px 0px !important;
+}
+
+.portlet .portlet-body,
+.portlet .portlet-body .form-actions  {
+	border-radius: 0px 0px 4px 4px !important;
+}
+*/
+
+#simgeler_div {
+	color: #666;
+}
+
+#simgeler_div input {
+	display: none;
+}
+
+#simgeler_div .item {
+	border: 1px transparent solid;	
+	width: 32px;
+	height: 32px;
+	text-align: center;
+	position: relative;
+	border-radius: 3px;
+	display: none;
+}
+
+#simgeler_div input:checked + .item,
+#simgeler_div.goster .item {
+	display: inline-block;
+}
+
+#simgeler_div .item .iocun {
+	font-size: 18px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-o-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%);
+}
+
+#simgeler_div input:checked + .item {
+	border-color: #ddd;
+	background-color: rgba(200, 200, 200, .3);
+}
+/*
+[class^="fa-"]:not(.fa-stack),
+[class*=" fa-"]:not(.fa-stack) {
+	font-family: 'FontAwesome';
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+	font-family: 'simple-line-icons';
+}
+*/
+[class^="glyphicon-"],
+[class*=" glyphicon-"]{
+	font-family: 'Glyphicons Halflings';
+}
+
+#modul_tab_ca {
+	margin-bottom: 0;
+}
+
+.table_actions .pagination {
+	margin: 0;
+}
+
+#mtablea .form-control {
+	height: 21px;
+	padding: 5px;
+	font-size: 12px;
+	line-height: 1.5;
+	border-radius: 3px;
+	text-align: center;
+}
+
+#mtablea .btn {
+	margin-right: 0;
+}
+
+#mtablea * + .btn {
+	margin-left: 3px;
+}
+
+.pagination .sraca {
+
+}
+
+.pagination .sraca select {
+	height: 32px;
+	line-height: 32px;
+	float: left;
+	border-radius: 0;
+	margin-left: -1px;
+}
+
+/* *********************************************** */
+/* sortable table */
+/* *********************************************** */
+
+table thead tr th.sortable {
+	position: relative;
+	padding-right: 25px;
+	cursor: pointer;
+}
+
+table thead tr th.sortable:before,
+table thead tr th.sortable:after {
+	right: 10px;
+	position: absolute;
+	font: normal normal normal 14px/1 FontAwesome;
+	opacity: .3;
+	top: 50%;
+	transform: translate(0, -50%);
+	-o-transform: translate(0, -50%);
+	-moz-transform: translate(0, -50%);
+	-webkit-transform: translate(0, -50%);
+}
+
+table thead tr th.sortable:before {
+	content: "\f0d8";
+	margin-top: -5px;
+}
+
+table thead tr th.sortable:after {
+	content: "\f0d7";
+	margin-top: 5px;
+}
+
+table thead tr th.sortable.sort0,
+table thead tr th.sortable.sort1 {
+	background-color: #F9F9F9;
+}
+
+table thead tr th.sortable.sort0:after,
+table thead tr th.sortable.sort1:before {
+	opacity: 1;
+	color: #0e93c2;
+	color: #ca1e79;
+}
+
+/* *********************************************** */
+/* permant */
+/* *********************************************** */
+
+.permant_main {
+	line-height: 34px;	
+}
+
+.permant_main .permant_span .text {
+	background-color: #F9F3BE;
+	display: inline-block;
+	border-radius: 5px;
+	padding: 0 5px;
+}
+
+.permant_main .permant_span .load {
+	display: none;
+	background: url('../../../global/img/loading-spinner-blue.gif') no-repeat 0 50%;
+	width: 22px;
+}
+
+.permant_main .permant_span.loading .load {
+	display: inline-block;
+}
+
+.permant_main .permant_span.text_ .input_,
+.permant_main .permant_span.input_ .text_,
+.permant_main .permant_span.loading .input_,
+.permant_main .permant_span.loading .text_ {
+	display: none;
+}
+
+/* *********************************************** */
+/* select2 */
+/* *********************************************** */
+.select2-container .select2-selection {
+	border-color: #e5e5e5;
+}
+.select2-container .select2-selection--single {
+	height: 34px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+	line-height: 34px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+	height: 34px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+	line-height: 30px;
+	padding: 0 15px 0 10px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+	margin-right: 5px;
+}
+
+.text-gray {
+	color: #aaa;
+}
+
+.select2-dropdown .select2-results__option--highlighted .text-gray {
+	color: #ddd;
+}
+
+#modul_item_page .control-label {
+	font-weight: bold;
+}
+
+#toplamkayith {
+	line-height: 32px;
+	display: block;
+}
+
+.clear {
+	width: 1%;
+    display: table-cell;
+	vertical-align: middle;
+}
+
+.breadcrumb a {
+	color: #9E9E9E;
+	font-size: 14px;
+}
+
+.breadcrumb .fa {
+	font-size: 9px;
+}
+
+#modul_item_page .control-label {
+	text-align: left;
+}
+
+#modul_item_page .portlet.box.blue {
+	border-width: 0;
+}

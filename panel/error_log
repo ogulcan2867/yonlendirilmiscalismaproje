@@ -1,0 +1,9 @@
+[02-Jul-2019 20:15:09 Turkey] PHP Notice:  Undefined index: lng in /home/modaortopedi/public_html/panel/giris.php on line 55
+[02-Jul-2019 20:16:26 Turkey] PHP Notice:  Undefined index: lng in /home/modaortopedi/public_html/panel/giris.php on line 55
+[02-Jul-2019 20:17:06 Turkey] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/modaortopedi/public_html/panel/page/modul_item_page.php on line 178
+[02-Jul-2019 20:17:11 Turkey] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/modaortopedi/public_html/panel/page/modul_item_page.php on line 178
+[02-Jul-2019 20:17:11 Turkey] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/modaortopedi/public_html/panel/page/modul_item_page.php on line 178
+[02-Jul-2019 20:17:19 Turkey] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/modaortopedi/public_html/panel/page/modul_item_page.php on line 178
+[02-Jul-2019 20:17:30 Turkey] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/modaortopedi/public_html/panel/page/modul_item_page.php on line 178
+[02-Jul-2019 20:17:32 Turkey] PHP Notice:  Undefined variable: sart in /home/modaortopedi/public_html/panel/page/uyeler.php on line 84
+[02-Jul-2019 20:17:39 Turkey] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/modaortopedi/public_html/panel/page/menu.php on line 230

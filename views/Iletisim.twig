@@ -1,0 +1,158 @@
+{% extends 'Layout.twig' %}
+{%block title%}İletişim | Moda Ortopedi{%endblock%}
+{% block content %}
+<div id="ABdev_header_spacer" style="height: 90px;"></div>
+<section id="headline_breadcrumbs_bar" class="pattern_overlayed">
+	<div class="container">
+		<div class="row">
+			<div class="span12 center_aligned">
+				<h2>
+					İLETİŞİM
+				</h2>
+			</div>
+			<div class="span12 center_aligned">
+				<div class="breadcrumbs">
+					<a href="#">Anasayfa</a>
+					<span class="circle_delimiter"></span>
+					<span class="current">İletişim</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="tcvpb_section_tc section_with_header intro_text_after padding_top_90 padding_bottom_64">
+	<div class="tcvpb_section_content">
+		<div class="tcvpb_container">
+			<div class="tcvpb_column_tc_span3">
+				<div class="tcvpb_service_box tcvpb_service_box_big service_box_border">
+					<div class="tcvpb_service_box_header">
+						<div class="tcvpb_icon_boxed">
+							<i class="s7-call icon_color transparent_background"></i>
+						</div>
+						<h3>
+							TELEFON & FAX
+						</h3>
+					</div>
+					<div class="tcvpb_service_content">
+						<p class="p_tc">
+							<span class="service_box_font_size"> {{ayarlar.telefon}} </span>
+							<br>
+							<span class="service_box_font_size"> {{ayarlar.faks}}</span>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="tcvpb_column_tc_span3">
+				<div class="tcvpb_service_box tcvpb_service_box_big service_box_border">
+					<div class="tcvpb_service_box_header">
+						<div class="tcvpb_icon_boxed">
+							<i class="s7-mail-open-file icon_color transparent_background"></i>
+						</div>
+						<h3>
+							BİZE ULAŞIN
+						</h3>
+					</div>
+					<div class="tcvpb_service_content">
+						<p class="p_tc">
+							<span class="font_size_10">
+								{{ayarlar.email}}<br/>
+								{{ayarlar.gsm}}
+							</span>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="tcvpb_column_tc_span3">
+				<div class="tcvpb_service_box tcvpb_service_box_big service_box_border">
+					<div class="tcvpb_service_box_header">
+						<a href="#" target="_self" class="tcvpb_icon_boxed scroll ">
+							<i class="s7-home icon_color transparent_background"></i>
+						</a>
+						<a href="" target="_self" class="scroll">
+							<h3>
+								ADRES
+							</h3>
+						</a>
+					</div>
+					<div class="tcvpb_service_content">
+						<p class="p_tc">
+							<span class="font_size_10">
+								{{ayarlar.adres}}
+							</span>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="tcvpb_column_tc_span3">
+				<div class="tcvpb_service_box tcvpb_service_box_big service_box_border">
+					<div class="tcvpb_service_box_header">
+						<a href="#" target="_self" class="tcvpb_icon_boxed scroll ">
+							<i class="s7-alarm icon_color transparent_background"></i>
+						</a>
+						<a href="#" target="_self" class="scroll">
+							<h3>
+								ÇALIŞMA SAATLERİ
+							</h3>
+						</a>
+					</div>
+					<div class="tcvpb_service_content">
+						<p class="p_tc">
+							<span class="font_size_10">
+								Hafta İçi : 09:00 - 19:30
+								<br>
+								Hafta Sonu : 09:00 - 19:30
+							</span>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="tcvpb_section_tc tcvpb-inversed_text section_with_header title_text_after pattern_overlayed contact_section_style" data-background_image="{{ur}}views/assets/images/background-image5.jpg">
+	<header>
+		<div class="tcvpb_container">
+			<h3>
+				İLETİŞİM FORMU
+			</h3>
+		</div>
+	</header>
+	<div class="tcvpb_section_content">
+		<div class="tcvpb_container">
+			<div class="tcvpb_column_tc_span12 tcvpb-animo animation_completed" data-animation="fadeIn" data-trigger_pt="0" data-duration="1000" data-delay="200" style="">
+				<div role="form" class="wpcf7" id="wpcf7-f5-p174-o1" lang="en-US" dir="ltr">
+					<div class="screen-reader-response"></div>
+					<form action="#" method="post" class="wpcf7-form" novalidate="novalidate">
+						<div class="row transparent_form">
+							<div class="span4">
+								<span class="wpcf7-form-control-wrap your-name">
+									<input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Ad Soyad">
+								</span>
+							</div>
+							<div class="span4">
+								<span class="wpcf7-form-control-wrap your-email">
+									<input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Telefon">
+								</span>
+							</div>
+							<div class="span4">
+								<span class="wpcf7-form-control-wrap your-subject">
+									<input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Konu">
+								</span>
+							</div>
+						</div>
+						<div class="row transparent_form">
+							<span class="wpcf7-form-control-wrap your-message">
+								<textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Mesajınız"></textarea>
+							</span>
+							<div class="span12 aligncenter">
+								<input type="submit" value="GÖNDER" class="wpcf7-form-control wpcf7-submit">
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{% endblock %}

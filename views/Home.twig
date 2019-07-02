@@ -1,0 +1,74 @@
+{% extends 'Layout.twig' %}
+{% block content %}
+<div id="ABdev_header_spacer"></div>
+<section class="tcvpb_section_tc tcvpb-centered tcvpb-inversed_text tcvpb-parallax inspirado_parallax_image1"
+         data-background_image="images/parallax-image1.jpg" data-parallax="0">
+    <div class="tcvpb_section_content">
+        <div class="tcvpb_container">
+            <div class="tcvpb_column_tc_span12">
+                <div class="with_lines">
+                    <p class="p_tc">Ortopedik Çözümler</p>
+                </div>
+                <span class="clear spacer_10"></span>
+                <a href="{{url}}iletisim" target="_self"
+                   class="tcvpb-button tcvpb-button_transparent tcvpb-button_medium ">İletişim</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="tcvpb_section_tc section_body_fullwidth no_padding_top_and_bottom">
+    <div class="tcvpb_section_content">
+        <div class="tcvpb_container">
+            <div class="tcvpb_column_tc_span5">
+                <div id="rev_slider_4_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container"
+                     data-alias="about_us_slider">
+                    <!-- START REVOLUTION SLIDER 5.1.4 auto mode -->
+                    <div id="rev_slider_4_1" class="rev_slider fullwidthabanner" style="display:none;"
+                         data-version="5.1.4">
+                        <ul>
+                            <!-- SLIDE  -->
+                            <li data-index="rs-14" data-transition="fade" data-slotamount="7" data-easein="default"
+                                data-easeout="default" data-masterspeed="300"
+                                data-thumb="views/assets/rs-plugin/assets/about_us2-100x50.jpg" data-rotate="0"
+                                data-saveperformance="off" data-title="Slide" data-param1="" data-param2=""
+                                data-param3="" data-param4="" data-param5="" data-param6="" data-param7=""
+                                data-param8="" data-param9="" data-param10="" data-description="">
+                                <!-- MAIN IMAGE -->
+                                <img src="views/assets/rs-plugin/assets/about_us2.jpg" alt="" width="755" height="542"
+                                     data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"
+                                     class="rev-slidebg" data-no-retina>
+                                <!-- LAYERS -->
+                            </li>
+                        </ul>
+                        <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+                    </div>
+                </div><!-- END REVOLUTION SLIDER -->
+            </div>
+            <div class="tcvpb_column_tc_span5">
+                <span class="clear spacer_40"></span>
+                <h2 class=" title_with_after">HAKKIMIZDA</h2>
+                <div class="">
+                    {{ ayarlar.hakkimizda|raw }}
+                </div>
+            </div>
+            <div class="tcvpb_column_tc_span2"></div>
+        </div>
+    </div>
+</section>
+
+<section class="tcvpb_section_tc no_padding_top_and_bottom blue_box_background">
+    <div class="tcvpb_section_content">
+        <div class="tcvpb_container">
+            <div class="tcvpb_column_tc_span12">
+                <div class="tcvpb-callout_box tcvpb-callout_box_style_4  white_text">
+                    <span class="tcvpb-callout_box_title">{{ ayarlar.slogan }}</span>
+                    <a href="#" target="_self"
+                       class="tcvpb-button1 tcvpb-button_normal tcvpb-button_small tcvpb-button_transparent">İLETİŞİM</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% endblock %}

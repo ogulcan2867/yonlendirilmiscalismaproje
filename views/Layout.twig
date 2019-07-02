@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{%block title %}{{ ayarlar.site_baslik }}{%endblock%}</title>
+    <meta name="title" content="{{ ayarlar.site_baslik }}">
+    <meta name="description" content="Şirketimiz ortopedik çocuk, bayan ve bay ayakkabıları ile diyabetik özel ayakkabı imalatı yapmaktadır.Reçeteli özel ayakkabı imalatımıza ait modelleri ürünler bağlantısında görebilirsiniz.">
+    <meta name="keywords" content="moda,ortopedi , moda ortopedi,modaortopedi , ortopedik ayakkabı , ortopedik terlik,terlik,ayakkabı,">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="Turkish">
+
+    <link rel="stylesheet" href="{{ url }}views/assets/rs-plugin\css\settings.css" type="text/css" media="all">
+    <link rel="stylesheet" id="tcvpb_icons_elegant-css" href="{{ url }}views/assets/css\icons\elegant.css"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="tcvpb_theme_icons-css" href="{{ url }}views/assets/css\icons\icons.css" type="text/css"
+          media="all">
+    <link rel="stylesheet" id="inspirado_core_icons-css" href="{{ url }}views/assets/css\core-icons\core_style.css"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="inspirado_css_scripts-css" href="{{ url }}views/assets/css\scripts.css" type="text/css"
+          media="all">
+    <link rel="stylesheet" id="inspirado_google_fonts-css"
+          href="https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C400italic%2C700&amp;subset=latin%2Clatin-ext"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="inspirado_main_css-css" href="{{ url }}views/assets/css\style.css" type="text/css"
+          media="all">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+
+<body class="page page-template-page-portfolio">
+
+<header id="ABdev_main_header" class="header_layout_default clearfix">
+    <div id="main_menu_container">
+        <div class="container menu_container">
+            <div class="row">
+                <div class="span2 tcvpb-centered">
+                    <div id="logo">
+                        <a>
+                            <img id="inverted_logo" class="hide" src="{{ url }}views/assets/images\logo.png"
+                                 alt="Inspirado">
+                        </a>
+                    </div>
+                </div>
+                <div class="span10 first_menu">
+                    <nav>
+                        <ul id="main_menu_left" class="">
+                            {% for menu in menu %}
+                            <li class="menu-item menu-item-has-children ">
+                                <a class="main-menu-link" href="{{ menu.url }}">
+                                    <span>{{ menu.ad }}</span>
+                                </a>
+                                {% if menu.sub %}
+                                    <ul class="navi">
+                                        {% for sub in menu.sub %}
+<li class="navi menu-item"><a href="{{ sub.url }}" class="scroll"><span>{{ sub.ad }}</span></a></li>
+                                        {% endfor %}
+                                    </ul>
+                                {% endif %}
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="header_sidebar_toggle">
+                <span></span>
+            </div>
+        </div>
+    </div>
+</header>
+{% block content %}{% endblock %}
+<footer id="ABdev_main_footer">
+    <div id="footer_columns">
+        <div class="container">
+            <div class="row">
+                <div class="span4 clearfix">
+                    <div id="text-6" class="widget widget_text">
+                        <h3 class="footer-widget-heading">{{ ayarlar.site_baslik }}</h3>
+                        <div class="textwidget">
+                            {{ ayarlar.fhakkimizda|raw }}
+                        </div>
+                    </div>
+                </div>
+                <div class="span4 clearfix">
+                    &nbsp;
+                </div>
+                <div class="span4 clearfix">
+                    <div id="contact-info-2" class="widget contact-info">
+                        <h3 class="footer-widget-heading">İLETİŞİM</h3>
+                        <div class="contact_info_widget">
+                            <p><i class="ci_icon-home2"></i>{{ ayarlar.adres }}</p>
+                            <p><i class="fa fa-phone"></i>{{ ayarlar.telefon }}</p>
+                            <p><i class="fa fa-fax"></i>{{ ayarlar.faks }}</p>
+                            <p><i class="ci_icon-mail-empty"></i>
+                                <a href="mailto:{{ ayarlar.email }}">{{ ayarlar.email }}</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer_copyright">
+        <div class="container">
+            <div class="row">
+                <div id="footer_container">
+                    <div class="row">
+                        <div class="copyright span12" style="text-align: center">
+                            <a href="https://www.arasbil.com/"><img style="width:100px;height:30px;"
+                                                                    src="https://www.arasbil.com/img/logo.png"
+                                                                    alt="Copyright Arasbil Bilişim Teknolojileri"
+                                                                    title="Copyright Arasbil Bilişim Teknolojileri"/></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="back_to_top"><a id="back_to_top" title="Yukarı Çık"></a></div>
+        </div>
+    </div>
+</footer>
+
+<script type="text/javascript" src="{{ url }}views/assets/js\jquery.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/js\jquery-ui.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/js\jquery-migrate.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/rs-plugin\js\jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/rs-plugin\js\jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/js\prettify.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/js\jquery.carouFredSel-6.2.1.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/js\portfolio-init.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/js\mediaelement\mediaelement.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/js\mediaelement\mediaelement-and-player.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/js\widget.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/js\accordion.js"></script>
+
+<script type="text/javascript" src="{{ url }}views/assets/rs-plugin\js\extensions\revolution.extension.actions.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/rs-plugin\js\extensions\revolution.extension.carousel.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/rs-plugin\js\extensions\revolution.extension.kenburn.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/rs-plugin\js\extensions\revolution.extension.layeranimation.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/rs-plugin\js\extensions\revolution.extension.migration.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/rs-plugin\js\extensions\revolution.extension.navigation.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/rs-plugin\js\extensions\revolution.extension.parallax.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/rs-plugin\js\extensions\revolution.extension.slideanims.min.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/rs-plugin\js\extensions\revolution.extension.video.min.js"></script>
+
+<script type="text/javascript" src="{{ url }}views/assets/js\scripts.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/js\custom.js"></script>
+<script type="text/javascript" src="{{ url }}views/assets/js\init.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c0b5967f-a939-484d-9e43-bded69c73e78" name="cihanmetalsac.com" url="http://cihanmetalsac.com">
+        <fileTransfer host="cihanmetalsac.com" port="21" rootFolder="/public_html/demo">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
